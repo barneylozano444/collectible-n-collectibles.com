@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /collectibles_6/
+Sitemap: http://www.collectible-n-collectibles.com/sitemap.xml 
